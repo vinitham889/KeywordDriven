@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65414" started-at="2023-07-26T12:45:43Z" finished-at="2023-07-26T12:46:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65414" started-at="2023-07-26T12:45:43Z" finished-at="2023-07-26T12:46:48Z">
+      <class name="com.demo.datatest.DataTest">
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:com.demo.datatest.DataTest@464bee09]" name="openUrl" is-config="true" duration-ms="8821" started-at="2023-07-26T12:45:43Z" finished-at="2023-07-26T12:45:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="Details(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.demo.datatest.DataTest@464bee09]" name="Details" duration-ms="14109" started-at="2023-07-26T12:45:53Z" data-provider="getTestData" finished-at="2023-07-26T12:46:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Riti]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[varma]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10 , 2nd cross, bidrahalli]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bangalore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[india]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Riti@gmail.com]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[July]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2023]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[28]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[9677178611]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Details of riti varma]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[99]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Details -->
+        <test-method status="PASS" signature="Details(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.demo.datatest.DataTest@464bee09]" name="Details" duration-ms="14103" started-at="2023-07-26T12:46:07Z" data-provider="getTestData" finished-at="2023-07-26T12:46:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sony]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shetty]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[11 , 3rd cross, hedge nagar]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bangalore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[india]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Sony@gmail.com]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[August]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2023]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[35]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[9677178612]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Details of sony shetty]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[99]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Details -->
+        <test-method status="PASS" signature="Details(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.demo.datatest.DataTest@464bee09]" name="Details" duration-ms="13465" started-at="2023-07-26T12:46:21Z" data-provider="getTestData" finished-at="2023-07-26T12:46:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[selvin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[stephen]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12 , 3rd cross, kalyan nagar]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bangalore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[india]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[selvin@gmail.com]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[September]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2023]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[25]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[8272896745]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Details of selvin]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[89]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Details -->
+        <test-method status="PASS" signature="Details(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.demo.datatest.DataTest@464bee09]" name="Details" duration-ms="13476" started-at="2023-07-26T12:46:34Z" data-provider="getTestData" finished-at="2023-07-26T12:46:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[albert]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[raj]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[13 , 4th cross, sunnyvale]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[polanco]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mexico]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[albert@gmail.com]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[October]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2023]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[18]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[8442896745]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Details of albert]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[100]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[others]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Details -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.demo.datatest.DataTest@464bee09]" name="logout" is-config="true" duration-ms="304" started-at="2023-07-26T12:46:48Z" finished-at="2023-07-26T12:46:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.demo.datatest.DataTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
